@@ -8,6 +8,18 @@ Vanced MicroG releases :
 [Vanced.microG_0.2.25.223212.apk](https://github.com/cuynu/ytvanced/releases/download/17.03.38/Vanced.microG_0.2.25.223212.apk)
 216cab7ad242f04a9fe4f50c71edb054
 
+YouTube Vanced Release : 17.41.34 
+
+[YouTube.Vanced.v17.41.34_Dark_Universal.apk](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Dark_Universal.apk)
+4c28377c333848bcaf6b041548ef59bb
+
+[YouTube.Vanced.v17.41.34_Black_Universal.apk](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Vanced.v17.41.34_Black_Universal.apk)
+815f23a1f221f26142b8f1bfcfeb3b5b
+
+[YouTube.Music.Vanced-v5.28.51_arm64-v8a.apk](https://github.com/cuynu/ytvanced/releases/download/17.41.34/YouTube.Music.Vanced-v5.28.51_arm64-v8a.apk)
+c145811fcc16f2205b3209512321ec13
+
+
 YouTube Vanced Release : 17.33.42
 
 [YouTube.Vanced_17.33.42_Dark_Universal.apk](https://github.com/cuynu/ytvanced/releases/download/17.33.42/YouTube.Vanced_17.33.42_Dark_Universal.apk)
