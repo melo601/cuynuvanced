@@ -3,6 +3,7 @@
 
 You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON OUTDATED VERSION.
 
+### YouTube Vanced
 
 **17.33.42 [Outdated]**
 
