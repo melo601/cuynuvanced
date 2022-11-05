@@ -1,7 +1,7 @@
 
 ### Non-root and root [Magisk Module] version
 
-You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON OLD VERSION.
+You can download old/outdated version of YouTube Vanced, YouTube Music Vanced and Vanced MicroG here, BUT PLEASE DO NOT REPORT BUGS ON OUTDATED VERSION.
 
 
 **17.33.42 [Outdated]**
