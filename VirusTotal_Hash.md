@@ -6,7 +6,7 @@ Some security vendor will flag my YouTube Vanced builds as "Android.PUA.DebugKey
 File hash are in VirusTotal Scan results.
 ## YouTube Vanced 17.43.36 VirusTotal Scan results:
 
-YouTube.Vanced.v17.43.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2ed63380ee6941aafa628352999947d86efe1fdc9056617d0354aa236f5b1565?nocache=1)
+YouTube.Vanced.v17.43.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/52702c1920a85f732b223b2fc5b5c55590b2b91075f54770e68a7bb01f966d82?nocache=1)
 
 YouTube.Vanced_v17.43.36_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/a197a7dc769e2ad116e2fd110762c1a27fb3d78964fc9968cc1d8d245cf36725?nocache=1)
 
