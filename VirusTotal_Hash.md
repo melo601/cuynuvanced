@@ -4,6 +4,21 @@ All of these files are manually uploaded by me, not with API or Bots
 Some security vendor will flag my YouTube Vanced builds as "Android.PUA.DebugKey". Don't worry. its only a normal behaviour because all my YouTube Vanced builds are signed with test/debug keys
 
 File hash are in VirusTotal Scan results.
+
+## YouTube Vanced 17.45.34 VirusTotal scan results :
+
+YouTube.Vanced.v17.45.34_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/544815a8026ad46753d5b623cf132ebb6faa2fdfa862e6d8a82b88834e7b1c62)
+
+YouTube.Vanced.v17.45.34_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/18e5e21c7b6f2d34c3171b1c7e8ce82845027bfe3fbf75185fcd2fca2ae8121a)
+
+YouTube.Vanced.v17.45.34_Black_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/4b2acd1bc5a69e3449fd5645f065e26aeb55f4b22d50c4e4584f0e360f8d363f)
+
+YouTube.Vanced.v17.45.34_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e4ab25eb1c80144a413e83566e425a6af9d4a38075be3dd58aeabb86ab4b1fdc)
+
+## YouTube Vanced 17.44.34 VirusTotal Scan results:
+
+Temporary unavailable due to VirusTotal quota, please check later!
+
 ## YouTube Vanced 17.43.36 VirusTotal Scan results:
 
 YouTube.Vanced.v17.43.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/52702c1920a85f732b223b2fc5b5c55590b2b91075f54770e68a7bb01f966d82?nocache=1)
