@@ -87,6 +87,10 @@ Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.co
 
 ## YouTube Music Vanced VirusTotal Scan results:
 
+YouTube.Music.Vanced.v5.33.51_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/d02a7dfc903223380542f7700a2b32cc232d5974a8be13991865f54998b64368/summary)
+
+YouTube.Music.Vanced.v5.33.51_2arch.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/7945812ba138b21e96f3b17bd041401bd24c3d6379e5664b6a7461bdfb013950/summary)
+
 YouTube.Music.Vanced_v5.31.50_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/0cfbe7d8706b5c9c6d7f3fcc8390c303204a5e1e38ee9bf1765ab8bb078fd648?nocache=1)
 
 YouTube.Music.Vanced-v5.28.51_2arch.apk [View on VirusTotal](https://www.virustotal.com/gui/file/71d214eda5f1010260434390e76502978812e52ad5d51282178c1021808f2848?nocache=1)
