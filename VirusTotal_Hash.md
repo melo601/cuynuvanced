@@ -15,6 +15,8 @@ YouTube.Vanced.v17.45.34_Black_arm64-v8a.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v17.45.34_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/1fc16f5a191088c6ab42ee2d27083baac8c8bbbfbd8cce23f8d5b4e6f280e9f9/detection)
 
+YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/cb81906305dad689e361515d7be523bc463e64b7536c91b57c80ed5243ae1ba1/detection)
+
 ## YouTube Vanced 17.44.34 VirusTotal Scan results:
 
 Temporary unavailable due to VirusTotal quota, please check later!
