@@ -1,7 +1,7 @@
 # VirusTotal Scan results and File Hash
 All of these files are manually uploaded by me, not with API or Bots
 
-Trustlook security vendor will flag my YouTube Vanced builds as "Android.PUA.DebugKey". Don't worry. its only a normal behaviour because all my YouTube Vanced builds are signed with test/debug keys
+Trustlook security vendor maybe flag my YouTube Vanced builds as "Android.PUA.DebugKey". Don't worry. its only a normal behaviour because all my YouTube Vanced builds are signed with test/debug keys.
 
 File hash are in VirusTotal Scan results.
 
@@ -15,9 +15,17 @@ YouTube.Vanced.v17.45.34_Black_arm64-v8a.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v17.45.34_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/1fc16f5a191088c6ab42ee2d27083baac8c8bbbfbd8cce23f8d5b4e6f280e9f9/detection)
 
+YouTube.Vanced.v17.45.34_Black_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/80809bd05f4effb16db1be49d7075a4faae993c19a4f14d6c763a867990944aa/detection)
+
+YouTube.Vanced.v17.45.34_Dark_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/ddeedb0be06d966f9bc89ff723303ae1321465a032b4fd59412ac456a1f30dfd/detection)
+
 YouTube.Vanced.Android.CarOled.v17.45.34_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/cb81906305dad689e361515d7be523bc463e64b7536c91b57c80ed5243ae1ba1/detection)
 
 YouTube.Vanced.v17.45.34.Monet.Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2c17065b5c2ece8bdb93c21a61b70b7277c4f53ad0baebf39e5610d023f05cf5/detection)
+
+YouTube.Vanced.v17.45.34.Monet.arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/b9a46bc1390c97be2424828e9c309d6530a4b9f378a718130422486967851499/detection)
+
+YouTube.Vanced.v17.45.34_Monet_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/619a793bcf73c025a17472d5f0343496408f825b1e589320c4043be8c4f8b7b8/detection)
 
 ## YouTube Vanced 17.44.34 VirusTotal Scan results:
 
