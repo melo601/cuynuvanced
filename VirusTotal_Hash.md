@@ -1,9 +1,26 @@
 # VirusTotal Scan results and File Hash
 All of these files are manually uploaded by me, not with API or Bots
 
-Trustlook security vendor maybe flag my YouTube Vanced builds as "Android.PUA.DebugKey". Don't worry. its only a normal behaviour because all my YouTube Vanced builds are signed with test/debug keys.
+Cringe "Trustlook" security vendor maybe flag my YouTube Vanced builds as "Android.PUA.DebugKey". Don't worry. its only a normal behaviour because all my YouTube Vanced builds are signed with test/debug keys.
 
 File hash are in VirusTotal Scan results.
+
+## YouTube Vanced 17.45.36 VirusTotal Scan results :
+
+YouTube.Vanced.v17.45.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/b2de89a4449a2833b7b1fef6a4695269ec8db0198541751a16d091011c835584/detection)
+
+YouTube.Vanced.v17.45.36_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/1ae0f7a1f520f650cfebeaa99211747d0275de1fdd00d34089ea1f41cc90e80c/detection)
+
+YouTube.Vanced.v17.45.36_Black_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/b121bae043974b58cc1189700fd05836a2f253ff83a65262f6d5737812bbaad7/detection)
+
+YouTube.Vanced.v17.45.36_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/f71e7ef00fd217f650e66b5d17009121e0c3b4abcc80cb84240abb4e339f2b72/detection)
+
+YouTube.Vanced.Android.CarOled.v17.45.36_Black.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/c19ac39345eee9580e960fc1cf3abbe46d945878b3565937fcf22430606351c4/detection)
+
+YouTube.Vanced.v17.45.36_Monet_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/c73f1b7a736f0ba44be1dd3054d48000275aa93aa56264cb6994afc4fc7f95a1/detection)
+
+YouTube.Vanced.v17.45.36_Monet_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/86843067c2a4bda066ad7fc94e8d37baacc9b57d96dc1d90dc499bb6d8365d51/detection)
+
 
 ## YouTube Vanced 17.45.34 VirusTotal Scan results :
 
@@ -27,9 +44,10 @@ YouTube.Vanced.v17.45.34.Monet.arm64-v8a.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v17.45.34_Monet_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/619a793bcf73c025a17472d5f0343496408f825b1e589320c4043be8c4f8b7b8/detection)
 
+
 ## YouTube Vanced 17.44.34 VirusTotal Scan results:
 
-Release deleted 
+Release deleted :(
 
 ## YouTube Vanced 17.43.36 VirusTotal Scan results:
 
@@ -102,6 +120,10 @@ Vanced.microG_0.2.25.223212.apk : [View on VirusTotal](https://www.virustotal.co
 Vanced.MicroG.0.2.24.220220.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf)
 
 ## YouTube Music Vanced VirusTotal Scan results:
+
+YouTube.Music.Vanced.v5.33.51_arm64-v8a_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/bfc0da151d0bff542ca0d89eea7137d6bbcf8d5fcec0acfd4247ca774e7dd5cb/detection)
+
+YouTube.Music.Vanced.v5.33.51_armeabi-v7a_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/fa97ba1e9ad4fb94addb5be96da39b2189ab246c302118d69f2292cb57bc399c/detection)
 
 YouTube.Music.Vanced.v5.33.51_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/d02a7dfc903223380542f7700a2b32cc232d5974a8be13991865f54998b64368/summary)
 
