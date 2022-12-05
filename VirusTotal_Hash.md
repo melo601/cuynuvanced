@@ -21,13 +21,13 @@ YouTube.Vanced.v17.45.36_Monet_Universal.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v17.45.36_Monet_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/3104e407417b9acd86471f52c60fe4317889e83b5fc33fe872bf7b58a3e2c8cc/detection)
 
-YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/59ccb28a20d1974f32f25703780826d76b25ccda8f489b0a227d72470e6369d5/detection)
+YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/0c86db456c46228b6f178df7e9b777045ec2dc14ea003edd4d2b99920bacc20b/detection)
 
-YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/b4ea5adb44bceee5059c9d396af08a0cd1f11889cdef7ec696543b9be4728974/detection)
+YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/0b272585fba70c568eb49ec33dcb77d3f7841c2b79b09906349ed25c30238f37/detection)
 
-UPDATE.YouTube.Vanced.v17.45.36_Black_Universal.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/6e3dbaa8f9c4357297d33b5e2f7101d4af0259afd3e6072760f5aea0a19029e5/detection)
+UPDATE.YouTube.Vanced.v17.45.36_Black_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/28317cfaa683d7824145824720b5b6315da649289ed6aa6bb672ffa8efecd8cb/detection)
 
-UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/92b0671cfedbe631bee87751b6916952a9177b3f23add16ea209fa1d19dbcdfc/detection)
+UPDATE.YouTube.Vanced.v17.45.36_Dark_Universal_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/cc5f29b206d14969effae32ff92e94b3642fcdbcb9168c132dfcfa6d73e3450f/detection)
 
 
 ## YouTube Vanced 17.45.34 VirusTotal Scan results :
