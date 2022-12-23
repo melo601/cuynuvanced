@@ -121,6 +121,8 @@ YouTube_Vanced_v17.03.38_Dark.apk : [View on VirusTotal](https://www.virustotal.
 
 ## Vanced MicroG VirusTotal Scan results:
 
+Vanced MicroG.v0.2.26.224913.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/61eddaaf7bbf68a5d077e49e31ea76f1343f8cf0e7e9688593ef764d909ab04f/detection)
+
 Vanced.MicroG.v0.2.25.224113.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/8350a88537aebde7a751d6db951d9f78e219554358188d05df38c8b00575e281)
 
 Vanced.microG_0.2.25.223212.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/9056241397a85bef6c4b6489b92fe7700a841351277266dedf77c054f244ee4a)
