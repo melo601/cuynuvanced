@@ -97,6 +97,12 @@ YouTube.Vanced.v17.41.34_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.v
 YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/080b3acccc4c6b94fa4295078485decc7eb4af0eaa12d78adc650b4b7849fd63?nocache=1)
 
 
+## YouTube Vanced 17.34.36 VirusTotal Scan results: 
+
+YouTube.Vanced.v17.34.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/3515a5c226c83f1b90fab6db5253705d9ed43136cd5d8205349d27cdbd86cd92/detection)
+
+YouTube.Vanced.v17.34.36_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/79f8cacc459fba5788037b25890646e990f59e83e311d1e0099cb34474b9ce2f/detection)
+
 ## YouTube Vanced 17.33.42 VirusTotal Scan results:
 
 YouTube.Vanced_17.33.42_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/a85e693bc50f11998345ceec853226b852f34a286e4e4f74ebffd749d09c35e8)
