@@ -19,7 +19,11 @@ YouTube.Vanced.v18.01.38_Monet_arm64-v8a.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.AndroidCarOled.v18.01.38.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/52db62a71c2f98782300bec2395fb51294a0822b2e7d04806a07fafe77f4b300/detection)
 
+YouTube.Vanced.v18.01.38_Black_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/d9f68c4af07f063c1ad1d13fbf7110ae1af6598dddca1facce36901c77580216/detection)
 
+YouTube.Vanced.v18.01.38_Dark_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/df8ba4a75549ab6022c4f1dedb8bb562a14cfc02de20c1394625b59000421755/detection)
+
+YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/ee5ae177e2be6c953641f5f3f49b387c4d19f7cf91c505f0aae0ce99f52a6cd0/detection)
 
 
 ## YouTube Vanced 18.02.33 beta VirusTotal Scan results :
