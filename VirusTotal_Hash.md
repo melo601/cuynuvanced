@@ -1,11 +1,15 @@
 # VirusTotal Scan results and File Hash
 All of these files are manually uploaded by me, not with API or Bots
 
-Cringe "Trustlook" security vendor maybe flag my YouTube Vanced builds as "Android.PUA.DebugKey". Don't worry. its only a normal behaviour because all my YouTube Vanced builds are signed with test/debug keys.
-
 File hash are in VirusTotal Scan results.
 
 ## YouTube Vanced 18.01.38 VirusTotal Scan results :
+
+YouTube.Vanced.v18.01.38_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/336a0ac695b79a50a610d4f14715ebe4b34f44657a66300e1b1fcf1da3c542d5/detection)
+
+YouTube.Vanced.v18.01.38_Black_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/4c0d5277dc76bd58f5bd95ef835f90b407ae071fb587358ed4f789c40c49f23b/detection)
+
+YouTube.Vanced.v18.01.38_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/fb1522509ac99e128ab25b428bd783e7294a50d173cd19474ea3b5ddba639802/detection)
 
 
 
