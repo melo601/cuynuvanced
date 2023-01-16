@@ -5,6 +5,22 @@ Cringe "Trustlook" security vendor maybe flag my YouTube Vanced builds as "Andro
 
 File hash are in VirusTotal Scan results.
 
+## YouTube Vanced 18.01.38 VirusTotal Scan results :
+
+
+
+
+
+## YouTube Vanced 18.02.33 beta VirusTotal Scan results :
+
+YouTube.Vanced.v18.02.33_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/afda07a6bc9565c935d8de6be4845182e01c24fe152973ae2ef50cd593f24ada/detection)
+
+YouTube.Vanced.v18.02.33_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/528ac3169b4f922d81dbce03e15f2f032fc3cd23ea0a7f028807e1d76fcebe9a/detection)
+
+YouTube.Vanced.v18.02.33_Monet_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/72c0dbe2e271bd0e0e5e0dbaff884434d6981da36708e2adb3481949ad8d9150/detection)
+
+YouTube.Vanced.v18.02.33_Black_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/e2ca1650df2f5712a98c0d63825c1129a381049fc06e2ba3baf62d7ec6a8ff02/detection)
+
 ## YouTube Vanced 17.45.36 VirusTotal Scan results :
 
 YouTube.Vanced.v17.45.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/b2de89a4449a2833b7b1fef6a4695269ec8db0198541751a16d091011c835584/detection)
