@@ -13,6 +13,13 @@ YouTube.Vanced.v18.01.38_Dark_Universal.apk : [View on VirusTotal](https://www.v
 
 YouTube.Vanced.v18.01.38_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/dda4003577d105332cb2f8e2321981421768992f509a4d3b0b352e7775e49dcf/detection)
 
+YouTube.Vanced.v18.01.38_Monet_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/30db71a6b334bcf16ec26230994aaf3809a17efe428f62831bfbb0dc7a2070ba/detection)
+
+YouTube.Vanced.v18.01.38_Monet_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/d9dbcabd06566a1e34bc3c2329f7b4cbf4d3a8736abf5b5c06786e5adba81182/detection)
+
+YouTube.Vanced.AndroidCarOled.v18.01.38.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/52db62a71c2f98782300bec2395fb51294a0822b2e7d04806a07fafe77f4b300/detection)
+
+
 
 
 ## YouTube Vanced 18.02.33 beta VirusTotal Scan results :
