@@ -11,7 +11,7 @@ YouTube.Vanced.v18.01.38_Black_arm64-v8a.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v18.01.38_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/fb1522509ac99e128ab25b428bd783e7294a50d173cd19474ea3b5ddba639802/detection)
 
-
+YouTube.Vanced.v18.01.38_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/dda4003577d105332cb2f8e2321981421768992f509a4d3b0b352e7775e49dcf/detection)
 
 
 
