@@ -176,7 +176,7 @@ YouTube.Music.Vanced.v5.39.52_2arch.apk : [View on VirusTotal](https://www.virus
 
 YTM.Vanced.v5.39.52_armeabi-v7a_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/79ed00072fe7d86292886030b4d513a07d12a832069d383f755c7110e6adc32b/detection)
 
-YTM.Vanced.v5.39.52_armeabi-v7a_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/ace26b02f1eed7461d52161c2cda6d8270a44c48d6079adc3d16d6317f8a705c/detection)
+YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/ace26b02f1eed7461d52161c2cda6d8270a44c48d6079adc3d16d6317f8a705c/detection)
 
 YouTube.Music.Vanced.v5.33.51_arm64-v8a_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/bfc0da151d0bff542ca0d89eea7137d6bbcf8d5fcec0acfd4247ca774e7dd5cb/detection)
 
