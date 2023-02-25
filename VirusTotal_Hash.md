@@ -134,6 +134,8 @@ YouTube.Vanced.v17.34.36_Black_Universal.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v17.34.36_Black_Universal_spoof.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/392bf147376e274f40ef618ec281f11b4f59173c43c66992eff5c85224427d8f/detection)
 
+YouTube.Vanced.v17.34.36_Dark_Universal_spoof.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/5c9108af9ba4eced82feea5f062aac1cbaa8a2a836de44d70a7300f6dd3eaf5c/detection)
+
 ## YouTube Vanced 17.33.42 VirusTotal Scan results:
 
 YouTube.Vanced_17.33.42_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/a85e693bc50f11998345ceec853226b852f34a286e4e4f74ebffd749d09c35e8)
