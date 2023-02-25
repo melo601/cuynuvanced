@@ -20,7 +20,7 @@
 
 ## YouTube Music Vanced
 
-[Download YouTube Music Vanced Unofficial version 5.28.51 and 5.31.50](https://github.com/cuynu/ytvanced/wiki/5.33.51)
+[Download YouTube Music Vanced Unofficial version 5.33.51](https://github.com/cuynu/ytvanced/wiki/5.33.51)
 
 [Download YouTube Music Vanced Unofficial version 5.28.51 and 5.31.50](https://github.com/cuynu/ytvanced/wiki/5.28.51_and5.31.50)
 
