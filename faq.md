@@ -1,4 +1,5 @@
 Frequently asked questions
+
 Q: What is this?
 
 A: This is a fork of YouTube Vanced after YouTube Vanced Official was discontinued, its based on ReVanced Extended patches.
