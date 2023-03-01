@@ -9,7 +9,6 @@ YouTube.Vanced.v18.01.38_Black_Universal.apk : [View on VirusTotal](https://www.
 
 YouTube.Vanced.v18.01.38_Black_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/4c0d5277dc76bd58f5bd95ef835f90b407ae071fb587358ed4f789c40c49f23b/detection)
 
-[FOR UNKNOWN REASON, K7GW FLAGGED IT AS "Trojan ( 005751251 )", its only a false postive]
 YouTube.Vanced.v18.01.38_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/fb1522509ac99e128ab25b428bd783e7294a50d173cd19474ea3b5ddba639802/detection)
 
 YouTube.Vanced.v18.01.38_Dark_arm64-v8a.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/dda4003577d105332cb2f8e2321981421768992f509a4d3b0b352e7775e49dcf/detection)
