@@ -162,6 +162,8 @@ YouTube_Vanced_v17.03.38_Dark.apk : [View on VirusTotal](https://www.virustotal.
 
 *Vanced microG is open source application, so VirusTotal not necessary. Source code for Vanced microG : https://github.com/cuynu/VancedMicroG/*
 
+Vanced.microG.0.2.27.231013.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2c5365488b3128a29a453665df9dbeb9f4319b9ccff634ac5dac0a8abcf6057c/detection)
+
 Vanced.microG.0.2.27.230755.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/771fc381f9f534930474a357bff1f03f93bfa04d1a5b25f659652f963f62ac67/detection)
 
 Vanced.microG.0.2.26.225014.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2e95431a4cb81226bf6b58145584264e72826fafdee72cd19e0485b16dd3c6eb/detection)
