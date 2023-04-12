@@ -4,6 +4,8 @@
 
 ## YouTube Vanced
 
+[Download YouTube Vanced Unofficial 17.45.36](https://github.com/cuynu/ytvanced/wiki/17.45.36)
+
 [Download YouTube Vanced Unofficial 17.45.34](https://github.com/cuynu/ytvanced/wiki/17.45.34)
 
 [Download YouTube Vanced Unofficial 17.43.36](https://github.com/cuynu/ytvanced/wiki/17.43.36)
