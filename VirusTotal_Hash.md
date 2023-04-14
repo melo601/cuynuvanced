@@ -3,6 +3,17 @@ All of these files are manually uploaded by me, not with API or Bots
 
 File hash are in VirusTotal Scan results.
 
+## YouTube Vanced 18.02.33 VirusTotal Scan results :
+
+YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/01dc0934f5dd5a7e7c9c5bb6f02c1ee056d918d965020d9907fca7d9877873fa/detection)
+
+YouTube.Vanced.v18.02.33_Dark_Universal_hotfix.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/43ba55d89ec3a4a4b20c9cf3e9772ca858c5f659dde9416d22d8c7d4be31acea/detection)
+
+YouTube.Vanced.v18.02.33_Monet_Universal_hotfix.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/23a39f0c86d9953ad507474b94b2f512483fd77c5de87b1b0d1021a07c0d8b8b/detection)
+
+YouTube.Vanced.v18.02.33_Black_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/e2ca1650df2f5712a98c0d63825c1129a381049fc06e2ba3baf62d7ec6a8ff02/detection)
+
+
 ## YouTube Vanced 18.01.38 VirusTotal Scan results :
 
 YouTube.Vanced.v18.01.38_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/336a0ac695b79a50a610d4f14715ebe4b34f44657a66300e1b1fcf1da3c542d5/detection)
@@ -25,16 +36,6 @@ YouTube.Vanced.v18.01.38_Dark_MagiskModule.zip : [View on VirusTotal](https://ww
 
 YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/ee5ae177e2be6c953641f5f3f49b387c4d19f7cf91c505f0aae0ce99f52a6cd0/detection)
 
-
-## YouTube Vanced 18.02.33 beta VirusTotal Scan results :
-
-YouTube.Vanced.v18.02.33_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/afda07a6bc9565c935d8de6be4845182e01c24fe152973ae2ef50cd593f24ada/detection)
-
-YouTube.Vanced.v18.02.33_Dark_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/528ac3169b4f922d81dbce03e15f2f032fc3cd23ea0a7f028807e1d76fcebe9a/detection)
-
-YouTube.Vanced.v18.02.33_Monet_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/72c0dbe2e271bd0e0e5e0dbaff884434d6981da36708e2adb3481949ad8d9150/detection)
-
-YouTube.Vanced.v18.02.33_Black_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/e2ca1650df2f5712a98c0d63825c1129a381049fc06e2ba3baf62d7ec6a8ff02/detection)
 
 ## YouTube Vanced 17.45.36 VirusTotal Scan results :
 
