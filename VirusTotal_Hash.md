@@ -11,6 +11,8 @@ YouTube.Vanced.v18.02.33_Dark_Universal_hotfix.apk : [View on VirusTotal](https:
 
 YouTube.Vanced.v18.02.33_Monet_Universal_hotfix.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/23a39f0c86d9953ad507474b94b2f512483fd77c5de87b1b0d1021a07c0d8b8b/detection)
 
+YouTube.Vanced.AndroidCarOled.v18.02.33.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/d2873614a802f76e9f4f2b8a861c783844263da2de6840b400a01e3abd0924cb/detection)
+
 YouTube.Vanced.v18.02.33_Black_MagiskModule.zip : [View on VirusTotal](https://www.virustotal.com/gui/file/e2ca1650df2f5712a98c0d63825c1129a381049fc06e2ba3baf62d7ec6a8ff02/detection)
 
 
