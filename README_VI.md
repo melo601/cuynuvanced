@@ -68,7 +68,7 @@ Phiên bản ổn định : 18.02.33 [( N.Kí Thay đổi)](https://github.com/c
 
 **YouTube Vanced phiên bản root [Magisk Module]**
 
-> **Tips**: Nếu module không thể mount hoặc hoạt động, hãy thử giải nén base.apk hoặc youtube.apm trong file zip và cài đặt apk, sau đó thử lại.
+> **Tips**: Nếu module không thể mount hoặc hoạt động, hãy thử giải nén base.apk hoặc youtube.apk trong file zip và cài đặt apk, sau đó thử lại.
 
 Chú ý : Phiên bản root không gặp vấn đề về phát lại video, vì vậy hãy sử dụng 18.01.38 !
 
