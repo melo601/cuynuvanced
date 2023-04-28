@@ -24,6 +24,7 @@ Nếu thiết bị của bạn chưa root :
 - Tải xuống Vanced microG và YouTube Vanced hoặc YouTube Music Vanced phiên bản non-root ở trên hoặc trong release 
 - Cài đặt như gói APK
 - (Một số thiết bị sẽ ngăn mở YouTube Vanced, bạn cần bật tự khởi chạy cho YouTube Vanced và Vanced microG.)
+- Gỡ cài đặt phiên bản cũ nếu có.
 
 ### Troubleshoot 
 
