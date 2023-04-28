@@ -48,7 +48,7 @@ Cách thức ủng hộ khác không khả dụng bây giờ
 
 Phiên bản ổn định : 18.02.33 [( N.Kí Thay đổi)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
-**Sử dụng 18.02.33 để sửa lỗi video không phát hoặc treo, xem [cách khắc phục sự cố.](https://github.com/cuynu/ytvanced#troubleshoot).**
+**Sử dụng 18.02.33 để sửa lỗi video không phát hoặc treo, xem [cách khắc phục sự cố.](https://github.com/cuynu/ytvanced/wiki/README_VI#troubleshoot).**
 
 [Tải xuống YouTube Vanced Unofficial phiên bản 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
