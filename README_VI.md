@@ -2,7 +2,7 @@
 
 Lưu ý : Màn hình ô-tô Android cần chạy Android 8+ và bạn cần cài đặt Vanced microG trước tiên!
 
-Sự cố phát lại video bị treo? xem [cách khắc phục sự cố.](https://github.com/cuynu/ytvanced/wiki/README_VI#troubleshoot).**
+Sự cố phát lại video bị treo? **xem [cách khắc phục sự cố.](https://github.com/cuynu/ytvanced/wiki/README_VI#troubleshoot)**
 
 Sử dụng phiên bản 17.34.36 cho màn hình Android ô-tô chạy Android 6 & 6 (chip 4 nhân)
 
