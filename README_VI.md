@@ -30,5 +30,6 @@ Nếu thiết bị của bạn chưa root :
 
 **Phát lại video không hoạt động (buffer)**
 
-Cho phiên bản 18.02.33 hotfix :
 - Bật tùy chọn `Giả mạo protobuf` trong Vanced settings -> Video (nếu tùy chọn `Giả mạo protobuf` được bật theo mặc định, tắt đi bật lại tùy chọn đó. Vấn đề phát lại video sẽ được khắc phục.
+
+[Quay lại trang tải xuống](https://github.com/cuynu/ytvanced/wiki/README_VI#cho-m%C3%A0n-h%C3%ACnh-%C3%B4-t%C3%B4-android-kh%C3%B4ng-ph%E1%BA%A3i-android-auto)
