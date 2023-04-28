@@ -1,3 +1,5 @@
+<p align="center"><b>Tiếng Việt</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/cuynu/ytvanced/">English</a></p>
+
 # YouTube Vanced
 Dự án YouTube Vanced không chính thức duy trì bởi Cuynu
 
