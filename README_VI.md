@@ -1,157 +1,143 @@
 # YouTube Vanced
-YouTube Vanced Unofficial project ~based on ReVanced patches~ maintained by Cuynu
-
+Dự án YouTube Vanced không chính thức duy trì bởi Cuynu
 <a href="https://github.com/cuynu/ytvanced#download">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
-**This project is TEMPORARY discontinued, [View details](https://github.com/cuynu/ytvanced/discussions/104).**
+**Dự án này đã được tạm ngừng, [Chi tiết](https://github.com/cuynu/ytvanced/discussions/104).**
 
-Total download counts :
+Tổng lượt tải xuống :
 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
 
-Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+Lo lắng về mã độc hay Keylogger? [Xem kết quả quét VirusTotal](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
-Want to recevie new update? Watch this repository or join us Telegram channel below :
+Muốn nhận bản cập nhật mới? Hãy theo dõi repository này hoặc tham gia nhóm Telegram phía dưới:
 
-Join unofficial update channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+Tham gia nhóm Telegram </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
-# Donation 
-Help us by subscribe to personal YouTube Channel:)
+# Ủng hộ 
+Ủng hộ tôi bằng cách đăng ký kênh YouTube cá nhân
 
-[Subscribe to YouTube channel : Cuynu](https://m.youtube.com/@cuynu/about)
+[YouTube : Cuynu](https://m.youtube.com/@cuynu/about)
  
-(There is no Vanced related videos in personal channel, only subscribe it for donation!)
+(Không có video nào liên quan đến Vanced trong kênh, chỉ đăng ký để ủng hộ!)
 
-Other support/donation method are not available right now.
+Cách thức ủng hộ khác không khả dụng bây giờ
 
-# Notice 
+# Chú ý 
 
-This is an "UNOFFICIAL" project by single person and NOT ASSOCIATED WITH TEAM VANCED.
+Đây là dự án "KHÔNG CHÍNH THỨC" duy trì bởi một mình và KHÔNG LIÊN KẾT với TEAM VANCED.
 
-# Download 
+# Tải xuống 
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
+> **Warning** : Phiên bản Android tối thiểu : 8.0+ cho phiên bản 17.41.34 hoặc cao hơn (6.0 và 7.0 cho phiên bản [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) hoặc cũ hơn)
 
-> Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
+> Kiến trúc CPU : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
-> Theme : Black, Dark and Monet theme, Monet theme only can install on Android 12 and above!
+> Theme : Black (Đen amoled), Dark (Xám) và Monet theme, Monet theme chỉ có thể cài đặt trên thiết bị sử dụng Android 12+ !
 
-**Vanced MicroG : (Install it only if you install non-root variant)**
+**Vanced MicroG : (Chỉ cài đặt nó nếu bạn cài đặt phiên bản non-root)**
 
-[Download Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
+[Tải xuống Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
 
-[Download Vanced MicroG 0.2.27.231413](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231413.apk)
+[Tải xuống Vanced MicroG 0.2.27.231413](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231413.apk)
 
-**YouTube Vanced non-root variant** : 
+**YouTube Vanced phiên bản non-root** : 
 
-Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
+Phiên bản ổn định : 18.02.33 [( N.Kí Thay đổi)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
 
-**Use 18.02.33 to fix video playback issue for non-root variant, see [buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
+**Sử dụng 18.02.33 để sửa lỗi video không phát hoặc treo, xem [cách khắc phục sự cố.](https://github.com/cuynu/ytvanced#troubleshoot).**
 
-[Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
+[Tải xuống YouTube Vanced Unofficial phiên bản 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
-[Download YouTube Vanced Unofficial version 18.02.33 Dark hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Dark_Universal_hotfix.apk)
+[Tải xuống YouTube Vanced Unofficial phiên bản 18.02.33 Dark hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Dark_Universal_hotfix.apk)
 
-[Download YouTube Vanced Unofficial version 18.02.33 Monet theme hotfix (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Monet_Universal_hotfix.apk)
+[Tải xuống YouTube Vanced Unofficial phiên bản 18.02.33 Monet theme hotfix (Chỉ Android 12+)](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Monet_Universal_hotfix.apk)
 
-[Download YouTube Vanced Unofficial version 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_Universal.apk)
+[Tải xuống YouTube Vanced Unofficial phiên bản 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_Universal.apk)
+[Tải xuống YouTube Vanced Unofficial phiên bản 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 18.01.38 Monet theme (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_Universal.apk)
+[Tải xuống YouTube Vanced Unofficial phiên bản 18.01.38 Monet theme (Chỉ Android 12+)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_Universal.apk)
 
-[Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
+[Tải xuống YouTube Vanced Unofficial phiên bản 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
 
-[Download YouTube Vanced for Android car screen](https://github.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
+[Tải xuống YouTube Vanced cho màn hình ô-tô Android](https://github.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
 
-**YouTube Vanced root variant [Magisk Module]**
+**YouTube Vanced phiên bản root [Magisk Module]**
 
-> **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again.
+> **Tips**: Nếu module không thể mount hoặc hoạt động, hãy thử giải nén base.apk hoặc youtube.apm trong file zip và cài đặt apk, sau đó thử lại.
 
-Notice : Root variant does not have buffering issue, so use 18.01.38 is highly recommend!
+Chú ý : Phiên bản root không gặp vấn đề về phát lại video, vì vậy hãy sử dụng 18.01.38 !
 
-[Download Magisk Module YouTube Vanced 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)
+[Tải xuống Magisk Module YouTube Vanced 18.01.38 Black](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Black_MagiskModule.zip)
 
-[Download Magisk Module YouTube Vanced 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_MagiskModule.zip)
+[Tải xuống Magisk Module YouTube Vanced 18.01.38 Dark](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Dark_MagiskModule.zip)
 
-[Download Magisk Module YouTube Vanced 18.01.38 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip)
+[Tải xuống Magisk Module YouTube Vanced 18.01.38 Monet (Chỉ Android 12+)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip)
 
-**YouTube Music Vanced non-root variant:**
+**YouTube Music Vanced phiên bản non-root:**
 
-[Download YouTube Music Vanced Unofficial version 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
+[Tải xuống YouTube Music Vanced Unofficial phiên bản 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
 
-[Download YouTube Music Vanced Unofficial version 5.39.52 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
+[Tải xuống YouTube Music Vanced Unofficial phiên bản 5.39.52 (Chỉ CPU armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
 
-**YouTube Music Vanced root variant [Magisk Module]:**
+**YouTube Music Vanced phiên bản root [Magisk Module]:**
 
-[Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip)
+[Tải xuống YouTube Music Vanced Unofficial phiên bản 5.39.52 Magisk Module (arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip)
 
-[Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (armeabi-v7a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_armeabi-v7a_MagiskModule.zip)
+[Tải xuống YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (armeabi-v7a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_armeabi-v7a_MagiskModule.zip)
 
-[Download older version of YouTube Music Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
-
-____________________________________________________
-
-## Old/outdated version:
-
-> **Warning**: Older/outdated version may have bugs or unexpected behavior, use it as your own risk!
-
-[Download older version of YouTube Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-vanced)
-
-[Download older version of YouTube Music Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-music-vanced)
-
-[Download older verson of Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
-____________________________________________________
-
-## For Android Car screen (Not Android Auto) 
-
-DO NOT INSTALL ON REGULAR ANDROID DEVICE.
-
-[Download YouTube Vanced 18.02.33 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.AndroidCarOled.v18.02.33.apk)
-
-[Download YouTube Vanced 18.01.38 for Android Car screen](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.01.38.apk)
+[Tải xuống phiên bản cũ hơn của YouTube Music Vanced](https://github.com/cuynu/ytvanced#youtube-vanced-oldoutdated-version)
 
 ____________________________________________________
 
-## Installation Guide
+## Phiên bản cũ/lỗi thời :
 
-If you not rooted :
-(Most device are not rooted by default)
+> **Warning**: Phiên bản cũ/lỗi thời có thể có các vấn đề không mong muốn!
 
-- Download Vanced microG (Latest version) and YouTube Vanced or YouTube Music Vanced non-root variant latest version from above or releases
-- Install as normal Android package file (APK)
-- (Some device will prevent you open YouTube Vanced, so you need to enable auto start for YouTube Vanced & Vanced microG.)
+[Tải xuống phiên bản cũ hơn của YouTube Vanced tại trang wiki](https://github.com/cuynu/ytvanced/wiki/old#youtube-vanced)
 
-If you're rooted :
-- Download Magisk Module variant from above or releases
-- Install on Magisk Manager 
-- Disable updates for original YouTube on Play Store.
-- If after install its still is original YouTube, reinstall module then restart your device
-- If YouTube not shown on app drawer, install base.apk from Magisk Module zip, and try install module again.
+[Tải xuống phiên bản cũ hơn của YouTube Music Vanced tại trang wiki](https://github.com/cuynu/ytvanced/wiki/old#youtube-music-vanced)
 
+[Tải xuống phiên bản cũ hơn của Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
+____________________________________________________
 
-### Open source
+## Cho màn hình ô tô Android (Không phải Android Auto) 
 
-Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide it on ytvanced repository. But in future, I will use my patch.
+Lưu ý : Màn hình ô-tô Android cần chạy Android 8+ !
 
-[ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
+[Tải xuống YouTube Vanced 18.02.33 cho màn hình ô-tô Android](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.AndroidCarOled.v18.02.33.apk)
 
-[Vanced-patches tree](https://github.com/cuynu/vanced-patches)
+[Tải xuống YouTube Vanced 18.01.38 cho màn hình ô-tô Android](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.AndroidCarOled.v18.01.38.apk)
+
+____________________________________________________
+
+## Hướng dẫn cài đặt
+
+Nếu thiết bị của bạn chưa root :
+(Đa số thiết bị hiện tại đều không root)
+
+- Tải xuống Vanced microG và YouTube Vanced hoặc YouTube Music Vanced phiên bản non-root ở trên hoặc trong release 
+- Cài đặt như gói APK
+- (Một số thiết bị sẽ ngăn mở YouTube Vanced, bạn cần bật tự khởi chạy cho YouTube Vanced và Vanced microG.)
+
+Nếu thiết bị của bạn đã root :
+- Tải xuống phiên bản root Magisk Module ở trên hoặc release 
+- Cài đặt như mô-đun Magisk 
+- Vô hiệu hoá tự động cập nhật cho YouTube trên Google Play.
+- Nếu sau khi cài đặt, YouTube không được thay đổi thành Vanced, hãy cài đặt lại module và khởi động lại thiết bị.
 
 
 ### Troubleshoot 
 
-> If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
+**Phát lại video không hoạt động (buffer)**
 
-**Video playback not working (buffer issue)**
+Cho phiên bản 18.02.33 hotfix :
+- Bật tùy chọn `Giả mạo protobuf` trong Vanced settings -> Video (nếu tùy chọn `Giả mạo protobuf` được bật theo mặc định, tắt đi bật lại tùy chọn đó. Vấn đề phát lại video sẽ được khắc phục.
 
-For 18.02.33 hotfix :
-- Enable `spoof protobuf` option on Vanced settings -> Video (If `protobuf spoof` option is enabled by default, re-enable `spoof protobuf` option. Buffering problem should fix.
-
-For older version :
-- Enable `Fix video playback buffer issue` option on YouTube Settings -> Vanced Settings -> Extended Settings and try again, if not works, install 18.02.33 hotfix version.
+**Phần dưới chưa được dịch!**
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
