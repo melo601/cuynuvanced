@@ -1,7 +1,7 @@
 # YouTube Vanced
 Dự án YouTube Vanced không chính thức duy trì bởi Cuynu
 
-<a href="https://github.com/cuynu/ytvanced#download">
+<a href="https://github.com/cuynu/ytvanced/wiki/README_VI#t%E1%BA%A3i-xu%E1%BB%91ng">
 <img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
 </a>
 
@@ -9,7 +9,7 @@ Dự án YouTube Vanced không chính thức duy trì bởi Cuynu
 
 Tổng lượt tải xuống :
 
-[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
+[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced/wiki/README_VI#t%E1%BA%A3i-xu%E1%BB%91ng)
 
 Lo lắng về mã độc hay Keylogger? [Xem kết quả quét VirusTotal](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
@@ -32,7 +32,7 @@ Cách thức ủng hộ khác không khả dụng bây giờ
 
 # Tải xuống 
 
-> **Warning** : Phiên bản Android tối thiểu : 8.0+ cho phiên bản 17.41.34 hoặc cao hơn (6.0 và 7.0 cho phiên bản [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) hoặc cũ hơn)
+> **Cảnh báo** : Phiên bản Android tối thiểu : 8.0+ cho phiên bản 17.41.34 hoặc cao hơn (6.0 và 7.0 cho phiên bản [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) hoặc cũ hơn)
 
 > Kiến trúc CPU : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
