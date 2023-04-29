@@ -1,6 +1,6 @@
 ## Cho màn hình ô tô Android (Không phải Android Auto) 
 
-Lưu ý : Màn hình ô-tô Android cần chạy Android 8+ và bạn cần cài đặt Vanced microG trước tiên!
+Lưu ý : Màn hình ô-tô Android cần chạy Android lớn hơn 6 và bạn cần cài đặt Vanced microG trước tiên!
 
 Sự cố phát lại video bị treo? **xem [cách khắc phục sự cố.](https://github.com/cuynu/ytvanced/wiki/README_VI#troubleshoot)**
 
