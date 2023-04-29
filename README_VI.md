@@ -14,6 +14,10 @@ Sử dụng phiên bản 17.34.36 cho màn hình Android ô-tô chạy Android 6
 
 [Tải xuống YouTube Vanced 17.34.36 cho màn hình ô-tô Android](https://github.com/cuynu/ytvanced/releases/download/17.34.36/YouTube.Vanced.v17.34.36.AndroidCarOled.apk)
 
+## Cho điện thoại/máy tính bảng
+
+[Đi đến trang tải xuống chung của kho lưu trữ](https://github.com/cuynu/ytvanced)
+
 ____________________________________________________
 
 ## Hướng dẫn cài đặt
