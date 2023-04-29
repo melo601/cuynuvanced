@@ -133,6 +133,8 @@ YouTube.Vanced_v17.41.34_Black_MagiskModules_fixed.zip : [View on VirusTotal](ht
 
 ## YouTube Vanced 17.34.36 VirusTotal Scan results: 
 
+YouTube.Vanced.v17.34.36.AndroidCarOled.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/2d21f04f16224f71e3233981e497137caa332b69adcff97ca72a2adabcfd40cc/detection)
+
 YouTube.Vanced.v17.34.36_Black_Universal.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/3515a5c226c83f1b90fab6db5253705d9ed43136cd5d8205349d27cdbd86cd92/detection)
 
 YouTube.Vanced.v17.34.36_Black_Universal_spoof.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/392bf147376e274f40ef618ec281f11b4f59173c43c66992eff5c85224427d8f/detection)
