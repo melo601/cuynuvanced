@@ -36,7 +36,7 @@ Nếu thiết bị của bạn chưa root :
 
 Đối với phiên bản 17.34.36 :
 
-- Bật tùy chọn `Giả mạo protobuf` trong Cài đặt YouTube -> Vanced settings -> Video (nếu tùy chọn `Giả mạo protobuf` được bật theo mặc định, tắt đi bật lại tùy chọn đó. Vấn đề phát lại video sẽ được khắc phục.
+- Bật tùy chọn `Enable spoof protobuf` trong Cài đặt YouTube -> Vanced settings -> Video (nếu tùy chọn `Enable spoof protobuf` được bật theo mặc định, tắt đi bật lại tùy chọn đó. Vấn đề phát lại video sẽ được khắc phục.
 
 Đối với phiên bản 18.02.33 : 
 
