@@ -1,4 +1,4 @@
-This repository has been go through 3 stages, from March 14, 2022 to now :
+This repository has been go through 4 stages, from March 14, 2022 to now :
 
 Stage 1 :
 On March 13, 2022, Team Vanced announced they discontinued Vanced, after a few hours, I created this ytvanced repository whose purpose is to "archive" the last Vanced version 17.03.38 (that version is still in my repository), then nothing else for Vanced such as updates because i'm not a developer until July of 2022
