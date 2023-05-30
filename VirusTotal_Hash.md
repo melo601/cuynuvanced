@@ -3,6 +3,9 @@ All of these files are manually uploaded by me, not with API or Bots
 
 File hash are in VirusTotal Scan results.
 
+## YouTube Vanced+ 18.21.34 VirusTotal Scan results :
+YouTube.Vanced+.v18.21.34_Black_Universal_bye.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/d41790b8ac659d108f7879e9c3629033e4f608894af3c937158a9e78b7f2d1d6/detection
+
 ## YouTube Vanced 18.02.33 VirusTotal Scan results :
 
 YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk : [View on VirusTotal](https://www.virustotal.com/gui/file/01dc0934f5dd5a7e7c9c5bb6f02c1ee056d918d965020d9907fca7d9877873fa/detection)
