@@ -2,11 +2,11 @@ Vanced, but with original YouTube logo!
 
 ## 18.21.34 
 
-Not available
+Not available, check back later
 
 ## 18.02.33 
 
-Not available
+Not available, check back later
 
 ## 17.39.35
 Black theme : 
@@ -20,8 +20,8 @@ Black theme (root) :
 
 ## 17.34.36 
 
-Not available
+Not available, check back later
 
 ## 17.45.36 and lower
 
-Deprecated, no support
+Deprecated and outdated, no support
