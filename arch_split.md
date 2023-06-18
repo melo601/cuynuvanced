@@ -1,7 +1,4 @@
-# YouTube Vanced
-
-# YouTube Music Vanced
-
+## Mistake or want to download universal variant or don't know what architecture is?, [Go back to download page](https://github.com/cuynu/ytvanced#download)
 
 ### YouTube Vanced/YouTube Vanced+ Unofficial
 *Version : 18.21.34*
